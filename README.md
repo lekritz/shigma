@@ -1,5 +1,23 @@
 # shigma
-*Shigma* is a Python package allowing for sigma (&Sigma;) and pi (&Pi;) notation. It is very easy to learn and works like you'd expect. You'l get the hang of it very fast.
+*Shigma* is a Python package allowing for sigma (&Sigma;) and pi (&Pi;) notation. It is very easy to learn and works like you'd expect. You'll get the hang of it very fast.
+## Installation
+You must make sure, you're using the right version of Python. Run this command:
+```commandline
+python --version
+```
+This will give you the version of Python. It must be Python 3.8 or later.
+
+Now that you know that you have th right version of Python, run this command:
+```commandline
+python -m pip --upgrade
+```
+There is a chance, you're using an outdated release of Pip. This command will update it.
+
+Finally, run this command:
+```commandline
+python -m pip install shigma
+```
+This installs the package so you can use it.
 ## How to use
 ### Sigma
 Envision yourself a sigma notation.

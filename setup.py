@@ -12,10 +12,8 @@ DESCRIPTION = "Allows for doing mathematical sigma and pi notation."
 # Setting up
 setup(
     name="shigma",
-    package_dir={"": "shigma"},
     version=VERSION,
     author="Lekritz (Henryk Popioɫek)",
-#   author_email="N/A",
     description=DESCRIPTION,
     long_description_content_type="text/markdown",
     long_description=long_description,

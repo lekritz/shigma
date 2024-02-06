@@ -1,1 +1,1 @@
-from shigma import *
+from .shigma import *

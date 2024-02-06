@@ -26,7 +26,7 @@ setup(
         "Development Status :: 2 - Pre-Alpha",
         "Intended Audience :: Other Audience",
         "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: MIT License"
+        "License :: OSI Approved :: MIT License",
         "Operating System :: Unix",
         "Operating System :: MacOS :: MacOS X",
         "Operating System :: Microsoft :: Windows",
